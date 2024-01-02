@@ -5,3 +5,4 @@
 ![invalid](https://github.com/abhijit737/register_Login_dotnet/blob/main/UserMVC_Screenshots/login%2022%20invalid.png)
 ![valid](https://github.com/abhijit737/register_Login_dotnet/blob/main/UserMVC_Screenshots/valid_login22.png)
 ![edit](https://github.com/abhijit737/register_Login_dotnet/blob/main/UserMVC_Screenshots/edited%2022.png)
+![logout](https://github.com/abhijit737/register_Login_dotnet/blob/main/UserMVC_Screenshots/logout%2022.png)
