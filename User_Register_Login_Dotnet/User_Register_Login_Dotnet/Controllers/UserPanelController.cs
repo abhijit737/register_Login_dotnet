@@ -89,7 +89,13 @@ namespace User_Register_Login_Dotnet.Controllers
             return RedirectToAction("Welcome");
         }
 
+        public ActionResult Logout()
+        {
 
+            Session.Clear();
+
+            return RedirectToAction("Login");
+        }
 
     }
 

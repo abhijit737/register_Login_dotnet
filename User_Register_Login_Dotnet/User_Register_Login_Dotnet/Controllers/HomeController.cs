@@ -26,5 +26,9 @@ namespace User_Register_Login_Dotnet.Controllers
 
             return View();
         }
+
+
+        
+
     }
 }
